@@ -1,0 +1,2 @@
+Créer un répertoire var/ et les sous-répertoires cache/ log/ et session/ avec les droits d'écritures pour apache.
+Copier le fichier application.ini.dist vers application.ini
